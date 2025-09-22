@@ -1,2 +1,2 @@
 # rps-game
-A simple Rock-Paper-Scissors game written in C++
+A simple Rock-Paper-Scissors game written in C+
